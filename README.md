@@ -1,1 +1,1 @@
-This is the repository for project milestones
+This is the repository for our project milestones.
